@@ -3,4 +3,3 @@ applications:
  - name: movies-reviews-database-575
    random-route: false
    memory: 128M
-   routes: movies-reviews-database-575.us-south.cf.appdomain.cloud
